@@ -1,0 +1,8 @@
+{
+  "name": "SEO Master Suite",
+  "description": "A comprehensive SEO dashboard featuring site audits, keyword research, content creation, and technical optimization tools with an orange and white professional theme.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
